@@ -1,0 +1,6 @@
+name: syant-reports
+version: 1.0
+author: Nyel
+depend:
+  - syant-core
+main: com.zyramc.ojvzinn.reports.Main
